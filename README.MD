@@ -130,7 +130,8 @@ Through this project, I developed and honed the following skills and competencie
 1. **Clone the repository** <br>
 git clone https://github.com/realdanizilla/Instacart.git
 2. **Install Dependencies:**  
-Navigate to the repository directory and install required Python packages. (cd Instacart pip install -r requirements.txt)
+Navigate to the repository directory and install required Python packages. <Br>
+(cd Instacart pip install -r requirements.txt)
 3. **Run the Jupyter Notebook:**<br>
 Open the `.ipynb` notebook for data analysis and exploration.
 4. **Explore the Data**:  
