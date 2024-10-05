@@ -10,6 +10,7 @@
   - [Results and Recommendations](#results-and-recommendations)
   - [Summary of Recommendations](#summary-of-recommendations)
   - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
+  - [How to use this repository](#how-to-use-this-repository)
 
 ## Project Objective
 
@@ -121,5 +122,21 @@ Through this project, I developed and honed the following skills and competencie
 - **Data Analysis & Visualization:** Improved skills in creating meaningful visual representations of data and extracting insights from patterns and trends.
 - **Customer Behavioral Insights:** Developed an understanding of how to use transactional data to derive insights into customer purchasing behaviors and trends
 - **Effective Reporting:** Learned to document analytical steps and summarize findings clearly, ensuring that analysis is transparent and easy to understand.
+
+[back to top](#instacard-groceries-analysis)
+
+## How to use this repository
+
+1. **Clone the repository** <br>
+git clone https://github.com/realdanizilla/Instacart.git
+2. **Install Dependencies:**  
+Navigate to the repository directory and install required Python packages. (cd Instacart pip install -r requirements.txt)
+3. **Run the Jupyter Notebook:**<br>
+Open the `.ipynb` notebook for data analysis and exploration.
+4. **Explore the Data**:  
+Follow through the notebook to see data preprocessing, analysis, and model building for predicting Instacart basket compositions. 
+
+5. **Customize and Experiment**:  
+Modify code sections to test different models or analysis techniques as desired.
 
 [back to top](#instacard-groceries-analysis)
